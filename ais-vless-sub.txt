@@ -1,0 +1,1 @@
+vless://dbc67590-4df1-4571-9ab6-eb06284b786d@45.91.135.190:80?path=%2F&security=none&encryption=none&host=cdn.speedtest.net&type=ws#AIS64k-WS-%E0%B8%AE%E0%B8%B9%E0%B8%AB%E0%B8%B5.*%F0%9F%A4%A
